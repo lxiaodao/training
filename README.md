@@ -2,8 +2,8 @@
 Training for team
 
 ## 登录和认证
-OAuth2  
-JWT
+- OAuth2  
+- JWT
 
 ## 版本控制
 Git
