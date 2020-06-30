@@ -2,16 +2,16 @@
 Training for team
 
 ## 登录和认证
-OAuth2
+OAuth2  
 JWT
 
 ## 版本控制
 Git
 
 ## 消息中间件
-Kafka
-RabbitMq
-RocketMq
+Kafka  
+RabbitMq  
+RocketMq  
 
 ## Web服务器
 Nginx
